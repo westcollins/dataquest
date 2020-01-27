@@ -1,2 +1,2 @@
 # dataquest
-this is to hold all of my guided projects from my dataquest lessons
+this is to hold all of the guided projects from dataquest
